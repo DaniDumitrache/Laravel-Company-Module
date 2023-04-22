@@ -1,0 +1,27 @@
+.col-md-6 {
+    margin-bottom: 5px;
+}
+
+#alerts {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    /* max-width: 250px; */
+    z-index: 9999;
+}
+
+.alert {
+    transition: all .5s ease-in-out;
+    transform: translateX(120%);
+    max-width: 250px;
+    min-width: 250px;
+    margin-bottom: 5px;
+    word-wrap: break-word;
+}
+
+.alert.show {
+    transform: translateX(0%);
+}

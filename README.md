@@ -1,9 +1,9 @@
 # TestTask
 
 <span>instalation:</span>
-composer install
+composer install<br>
 npm install
 
 <span>run:</span>
-php artisan serve
+php artisan serve<br>
 npm run dev

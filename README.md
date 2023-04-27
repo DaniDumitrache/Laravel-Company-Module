@@ -1,4 +1,4 @@
-# TestTask
+# Company Module (laravel)
 
 This project is a web application written in Laravel that provides an interface for managing a company, including creating and editing employees, employee projects, and company projects.
 

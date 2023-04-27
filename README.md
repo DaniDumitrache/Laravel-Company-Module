@@ -19,7 +19,7 @@ In general, this project offers a complete and scalable solution for managing a 
 5. Run database migrations: `php artisan migrate`
 6. Populate the database with test data: `php artisan db:seed`
 
-## Rolling
+## running
 
 - Run the PHP server: `php artisan serve`
 - Run the Vite server: `npm run dev`
